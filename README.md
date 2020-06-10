@@ -9,7 +9,9 @@ For Db it uses SqLite.
 
 # Database
 
--I've used Flask-Migrate.
+-SqlLite
+-Method
+  flask migrate.
 
 # Endpoints
 
